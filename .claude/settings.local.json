@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(ls:*)",
+      "Bash(lsof:*)",
+      "Bash(python3:*)",
+      "Bash(/Users/certideal/node_modules/.bin/supabase:*)",
+      "Bash(npm install:*)",
+      "Bash(npx expo:*)",
+      "Bash(xargs cat)",
+      "Bash(security find-generic-password:*)",
+      "Bash(npm show:*)",
+      "Bash(read hash:*)",
+      "Bash(supabase:*)"
+    ]
+  }
+}
